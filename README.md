@@ -1,1 +1,4 @@
-To be completed
+Project created together with;
+William Ekedahl 
+Max Lindberg
+Simon Lundqvist 
