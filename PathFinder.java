@@ -1,9 +1,3 @@
-// PROG2 VT24, Inlämningsuppgift, del 2
-// Grupp 159
-// Max Lindberg mali7984
-// William Ekedahl wiek0904
-// Simon Lundqvist silu8199
-
 import javafx.application.Application;
 import javafx.embed.swing.SwingFXUtils;
 import javafx.event.ActionEvent;
